@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-007ACC?logo=Adobe-XD&logoColor=white&style=flat)
 
 ---
 
