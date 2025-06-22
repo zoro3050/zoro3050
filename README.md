@@ -21,10 +21,11 @@
 
 **Frontend**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  
+![Javascript](https://img.shields.io/badge/-Javascript-764ABC?logo=Javascript&logoColor=white&style=flat)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![JQuery](https://img.shields.io/badge/-JQuery-764ABC?logo=redux&logoColor=white&style=flat)
 
 **Backend & DB**:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
