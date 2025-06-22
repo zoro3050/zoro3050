@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Kushwinder%20Dadwal!👋&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ayush%20Badial!👋&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h2 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer</h2>
