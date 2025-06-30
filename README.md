@@ -62,14 +62,9 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushwinder-dadwal-a35465208/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-badyal-7950041bb)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-dhruvdadwal6@gmail.com-red?logo=gmail&logoColor=white)](mailto:dhruvdadwal6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dhruvdadwal6@gmail.com-red?logo=gmail&logoColor=white)](mailto:ayushbadial@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushwinderDadwal&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushwinderDadwal&theme=radical"/>
-</p>
