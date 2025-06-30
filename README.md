@@ -64,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-badyal-7950041bb/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-dhruvdadwal6@gmail.com-red?logo=gmail&logoColor=white)](mailto:ayushbadial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ayushbadial@gmail.com-red?logo=gmail&logoColor=white)](mailto:ayushbadial@gmail.com)
 
 ---
 
