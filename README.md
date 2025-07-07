@@ -63,7 +63,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-badyal-7950041bb/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://portfolio-ayush-pi.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-ayushbadial@gmail.com-red?logo=gmail&logoColor=white)](mailto:ayushbadial@gmail.com)
 
 ---
